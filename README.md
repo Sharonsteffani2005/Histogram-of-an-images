@@ -72,7 +72,10 @@ plt.show()
 
 ```
 ## Output:
-![371980101-fe884dfa-b5c7-47a7-ad8e-4e229a86e9b3](https://github.com/user-attachments/assets/6436de3a-cf9d-4ecf-99a9-f6dc55ab42cd)
+<img width="340" height="308" alt="image" src="https://github.com/user-attachments/assets/6171ddbb-7d19-4422-8da7-31478d57358f" />
+<img width="272" height="300" alt="image" src="https://github.com/user-attachments/assets/bd0646ce-90ec-4bc8-8479-60abb0c168c9" />
+<img width="424" height="386" alt="image" src="https://github.com/user-attachments/assets/4741b809-a808-4de2-8fae-5e3ed3e79734" />
+<img width="423" height="346" alt="image" src="https://github.com/user-attachments/assets/3e2cfb51-79c7-4163-9d1b-d7c5b7c12c71" />
 
 
 ## Result: 
