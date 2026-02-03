@@ -33,7 +33,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-image = cv2.imread('iron.jpg')
+image = cv2.imread('sharon.jpeg')
 
 gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
@@ -72,11 +72,13 @@ plt.show()
 
 ```
 ## Output:
-<img width="340" height="308" alt="image" src="https://github.com/user-attachments/assets/6171ddbb-7d19-4422-8da7-31478d57358f" />
-<img width="272" height="300" alt="image" src="https://github.com/user-attachments/assets/bd0646ce-90ec-4bc8-8479-60abb0c168c9" />
-<img width="424" height="386" alt="image" src="https://github.com/user-attachments/assets/4741b809-a808-4de2-8fae-5e3ed3e79734" />
-<img width="423" height="346" alt="image" src="https://github.com/user-attachments/assets/3e2cfb51-79c7-4163-9d1b-d7c5b7c12c71" />
+<img width="231" height="208" alt="download" src="https://github.com/user-attachments/assets/3cccaa65-d49b-4204-a480-4da3a65df608" />
 
+<img width="158" height="208" alt="download" src="https://github.com/user-attachments/assets/5762ae85-b138-4719-8d79-9b3415f562b8" />
+
+<img width="299" height="232" alt="download" src="https://github.com/user-attachments/assets/d918aceb-5f01-4464-bb55-af834fe0a175" />
+
+<img width="299" height="232" alt="download" src="https://github.com/user-attachments/assets/c07ebdba-f989-490f-9a7c-37789d46928c" />
 
 ## Result: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
